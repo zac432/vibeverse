@@ -10,4 +10,3 @@ VibeVerse is a beginner-friendly Python GUI app that lets you search for a song 
   Enter the song in the format:  
   Artist - Song
 
-x
